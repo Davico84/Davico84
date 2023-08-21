@@ -16,7 +16,7 @@ I am currently looking for job offers that satisfy my desire to apply what I hav
 - ⚙️ React, React Native, Redux , Redux Toolkit
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, MongoDb , Sequelice , PostgreSql
-+ a lot more :D
++ a lot more :alien:
 
 ## Contact
 - :phone: +51 959396384
