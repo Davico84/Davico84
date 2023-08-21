@@ -19,7 +19,6 @@ I am currently looking for job offers that satisfy my desire to apply what I hav
 + a lot more :D
 
 ## Contact
-- [:phone:]
-- [+51 959396384 Whasap ]
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [:phone:] +51 959396384
+- [:email:] Davicova84@gmail.com
+
