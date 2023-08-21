@@ -3,26 +3,22 @@
 </h1>
 
 ## Hey! 👋
-I'm David, a 39 years old web developer from Peru.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+I'm David, a 39 year old Peruvian web developer. 
+I am a Systems Engineer by profession, and for many years I have been interested in the world of computers.
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+During my experience I moved away from the world of software development and got into mining technology projects. But since I met Henry my preferences turned to the development of Full Stack applications.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
+I am currently looking for job offers that satisfy my desire to apply what I have learned and acquire new knowledge and tools that allow me to develop good quality software. 
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, C#
-- ⚙️ React, React Native, Redux , 
+- ⚙️ React, React Native, Redux , Redux Toolkit
 - 👁️ SASS, CSS
-- 💽 MySQL, SQL, Mongo , Sequelice , PostgreSql
+- 💽 MySQL, SQL, MongoDb , Sequelice , PostgreSql
 + a lot more :D
 
 ## Contact
-- [+51 959396384](https://marton.lederer.hu)
+- [+51 959396384]:phone:
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 - [@martonlederer](./) on Discord
