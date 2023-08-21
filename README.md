@@ -18,7 +18,11 @@ I am currently looking for job offers that satisfy my desire to apply what I hav
 - 💽 MySQL, SQL, MongoDb , Sequelice , PostgreSql
 + a lot more :alien:
 
+## Projects:
+- Individual Project IndividualProjectIndividualVideoGames: individual project with which I passed the individual assessment stage in Henry. 
+- Individual Project PI-Food-main: Individual project in which the technical objectives of the application were achieved, but due to mismatch in CSS styles it was disqualified.
+- Final Project PFVideojuegos-Front: Project with which the group approval of the final project was obtained in Henry, it was a collaborative project of 7 people.
+
 ## Contact
 - :phone: +51 959396384
 - :email: Davicova84@gmail.com
-
