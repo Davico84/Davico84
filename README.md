@@ -16,13 +16,13 @@ I'm David, a 39 years old web developer from Peru.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, PHP, C#
+- ⚙️ React, React Native, Redux , 
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, Mongo , Sequelice , PostgreSql
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
+- [+51 959396384](https://marton.lederer.hu)
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 - [@martonlederer](./) on Discord
