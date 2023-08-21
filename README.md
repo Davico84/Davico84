@@ -9,7 +9,7 @@ I am a Systems Engineer by profession, and for many years I have been interested
 
 During my experience I moved away from the world of software development and got into mining technology projects. But since I met Henry my preferences turned to the development of Full Stack applications.
 
-I am currently looking for job offers that satisfy my desire to apply what I have learned and acquire new knowledge and tools that allow me to develop good quality software. 
+I am currently looking for job offers that satisfy my desire to apply what I have learned and acquire new knowledge and tools that allow me to develop good quality software.  :rocket: :rocket: :rocket:
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, C#
@@ -19,6 +19,6 @@ I am currently looking for job offers that satisfy my desire to apply what I hav
 + a lot more :D
 
 ## Contact
-- [:phone:] +51 959396384
-- [:email:] Davicova84@gmail.com
+- :phone: +51 959396384
+- :email: Davicova84@gmail.com
 
