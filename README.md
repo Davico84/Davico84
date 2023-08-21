@@ -26,3 +26,4 @@ I am currently looking for job offers that satisfy my desire to apply what I hav
 ## Contact
 - :phone: +51 959396384
 - :email: Davicova84@gmail.com
+- :link: https://www.linkedin.com/in/david-hebert-velarde-alvarado-196a4023a/
