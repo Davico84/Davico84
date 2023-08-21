@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://github.com/Davico84/AboutME/NameImg.svg)" alt="David Velarde" />
-</h1>
+![Ejemplo de imagen](https://imgur.com/a/u6DQs4v)
+
 
 ## Hey! 👋
 I'm David, a 39 years old web developer from Peru.
