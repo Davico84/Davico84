@@ -1,5 +1,6 @@
-![Ejemplo de imagen](https://imgur.com/a/u6DQs4v)
-
+<h1 align="center">
+  <img src="https://imgur.com/a/u6DQs4v" alt="David Velarde" />
+</h1>
 
 ## Hey! 👋
 I'm David, a 39 years old web developer from Peru.
