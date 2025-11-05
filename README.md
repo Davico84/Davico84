@@ -1,55 +1,11 @@
-<!-- HERO con título animado (neón + flicker) -->
 <p align="center">
-  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="50%" stop-color="#9D4EDD"/>
-        <stop offset="100%" stop-color="#00E5FF"/>
-        <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
-        <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <text x="50%" y="55%" text-anchor="middle"
-          font-family="JetBrains Mono, Consolas, monospace"
-          font-size="44" fill="url(#g)" filter="url(#glow)" letter-spacing="2">
-      DAVID VELARDE
-      <!-- flicker suave -->
-      <animate attributeName="opacity" values="0.85;1;0.85" dur="3.6s" repeatCount="indefinite"/>
-    </text>
-
-    <!-- línea base con “escáner” -->
-    <rect x="150" y="120" width="900" height="2" rx="1" fill="url(#g)" opacity="0.6"/>
-    <rect x="150" y="120" width="120" height="2" rx="1" fill="#00E5FF">
-      <animate attributeName="x" values="150;930;150" dur="5s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
+  <img src="/hero.svg" alt="David Velarde – Neon Hero" width="920" />
 </p>
 
-<!-- Subtítulo con typing (dinámico) -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+React+%7C+TypeScript;UI+rápidas+%2B+accesibles;Construyendo+productos+con+impacto">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+React+%7C+TypeScript;UI+rápidas+%2B+accesibles;Construyendo+productos+con+impacto" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- Separador animado (onda) -->
-<p align="center">
-  <svg width="760" height="32" viewBox="0 0 600 32" xmlns="http://www.w3.org/2000/svg">
-    <path id="wave" d="M0,16 C80,0 120,32 200,16 C280,0 320,32 400,16 C480,0 520,32 600,16"
-          fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.8"/>
-    <circle r="3" fill="#9d4edd">
-      <animateMotion dur="4s" repeatCount="indefinite" path="M0,16 C80,0 120,32 200,16 C280,0 320,32 400,16 C480,0 520,32 600,16"/>
-    </circle>
-  </svg>
 </p>
 
 ## 🚀 Hey!
