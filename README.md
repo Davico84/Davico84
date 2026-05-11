@@ -57,10 +57,10 @@ Soy **David**, un desarrollador Full-Stack con mente de ingeniero y alma de dise
 
 ### 📊 System Status
 <p align="center">
-  <!-- REEMPLAZA 'DavicoDell' con tu usuario real si no es este -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Davico84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=E1E1E1" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davico84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E1E1E1" height="165" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Davico84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=E1E1E1" height="165" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Davico84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E1E1E1" height="165" />
 </p>
+
 
 ---
 
