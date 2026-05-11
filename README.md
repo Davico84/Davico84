@@ -56,12 +56,11 @@ Soy **David**, un desarrollador Full-Stack con mente de ingeniero y alma de dise
 ---
 
 ### 📊 System Status
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BB86FC&text_color=E1E1E1" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E1E1E1" height="165" />
+  <!-- REEMPLAZA 'DavicoDell' con tu usuario real si no es este -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DavicoDell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=E1E1E1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavicoDell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E1E1E1" height="165" />
 </p>
-
 ---
 
 ### 📡 Transmission Terminal
